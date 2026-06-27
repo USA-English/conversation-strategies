@@ -1,0 +1,24 @@
+# dependencies
+node_modules/
+.pnpm-store/
+
+# next
+.next/
+out/
+
+# production
+build/
+
+# local env
+.env*
+!.env.example
+
+# logs
+*.log
+
+# temporary extraction files
+tmp/
+
+# system
+.DS_Store
+Thumbs.db
