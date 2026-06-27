@@ -1,6 +1,6 @@
-Use esta pasta para subir as imagens finais da pagina.
+Use esta pasta para subir as imagens finais da página.
 
-Sugestao de nomes:
+Sugestão de nomes:
 
 - hero-video-cover.webp
 - professor-leandro.webp
