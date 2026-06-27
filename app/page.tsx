@@ -3,87 +3,87 @@ const phases = [
     title: "Fase 01 - Small Talk",
     image: "Imagem Small Talk",
     text: [
-      "Na primeira fase, voce aprende o caminho mais rapido da conversa informal em ingles. Mesmo sem muito vocabulario, voce comeca a falar sobre coisas do dia a dia.",
-      "Aqui voce comeca a desenvolver os blocos simples que unem tudo o que voce ja viu em frases e conversas que realmente acontecem entre nativos.",
-      "Com o ingles que voce vai usar no dia a dia, voce para de travar com assuntos comuns e entende como iniciar, sustentar e encerrar uma troca de verdade.",
-      "Small talk desbloqueia sua primeira camada de conversa: cumprimentos, interesses em comum, rotina e preferencias em ingles."
+      "Na primeira fase, você aprende o caminho mais rápido da conversa informal em inglês. Mesmo sem muito vocabulário, você começa a falar sobre coisas do dia a dia.",
+      "Aqui você começa a desenvolver os blocos simples que unem tudo o que você já viu em frases e conversas que realmente acontecem entre nativos.",
+      "Com o inglês que você vai usar no dia a dia, você para de travar com assuntos comuns e entende como iniciar, sustentar e encerrar uma troca de verdade.",
+      "Small talk desbloqueia sua primeira camada de conversa: cumprimentos, interesses em comum, rotina e preferências em inglês."
     ]
   },
   {
     title: "Fase 02 - The Speaker",
     image: "Imagem The Speaker",
     text: [
-      "Nessa segunda fase voce deixa de apenas responder em ingles e passa a criar contexto, contar experiencias e conversar com mais independencia.",
-      "Aqui voce consegue falar com mais profundidade sobre os seus interesses reais e sobre as conversas que importam.",
-      "Voce aprende conversation about habits, choices, reasons and points of view. Uma abordagem sobre familia, trabalho, situacoes diferentes e historias pessoais.",
-      "The Speaker coloca a sua fala em movimento e tira voce da dependencia de respostas curtas."
+      "Nessa segunda fase, você deixa de apenas responder em inglês e passa a criar contexto, contar experiências e conversar com mais independência.",
+      "Aqui você consegue falar com mais profundidade sobre os seus interesses reais e sobre as conversas que importam.",
+      "Você aprende conversation about habits, choices, reasons and points of view. Uma abordagem sobre família, trabalho, situações diferentes e histórias pessoais.",
+      "The Speaker coloca a sua fala em movimento e tira você da dependência de respostas curtas."
     ]
   },
   {
     title: "Fase 03 - Mastery",
     image: "Imagem Mastery",
     text: [
-      "Na terceira fase do CS voce se aprofunda no idioma e domina Conversation Strategies.",
-      "Nessa fase voce consolida um ciclo de aprendizado poderoso. A partir desta fase, voce ja consegue conversar em ingles com fluencia e consistencia.",
-      "Sao aulas com novas dinamicas todo ano, com trilhas que ajudam a deixar sua fala mais espontanea, natural e segura.",
-      "Tambem e nessa fase que voce passa a entender o que esta sendo dito sem tentar traduzir tudo palavra por palavra.",
-      "Ao terminar essa fase, voce entende que falar nao e so falar ingles: e usar o idioma com estrategia, repertorio e confianca do seu jeito e de acordo com a sua vida."
+      "Na terceira fase do CS, você se aprofunda no idioma e domina Conversation Strategies.",
+      "Nessa fase, você consolida um ciclo de aprendizado poderoso. A partir desta fase, você já consegue conversar em inglês com fluência e consistência.",
+      "São aulas com novas dinâmicas todo ano, com trilhas que ajudam a deixar sua fala mais espontânea, natural e segura.",
+      "Também é nessa fase que você passa a entender o que está sendo dito sem tentar traduzir tudo palavra por palavra.",
+      "Ao terminar essa fase, você entende que falar não é só falar inglês: é usar o idioma com estratégia, repertório e confiança do seu jeito e de acordo com a sua vida."
     ]
   }
 ];
 
 const testimonials = [
-  "Leandro, agradeco a The English Hub por ter me ajudado. O jeito que o professor explica faz tudo parecer mais simples.",
+  "Leandro, agradeço a The English Hub por ter me ajudado. O jeito que o professor explica faz tudo parecer mais simples.",
   "Melhor professor ever! Ele explica tudo de um jeito muito claro.",
-  "Hoje faco frases que antes eu nunca conseguiria montar sozinho.",
-  "O curso mudou minha relacao com o ingles. Agora eu consigo pensar melhor antes de falar."
+  "Hoje faço frases que antes eu nunca conseguiria montar sozinho.",
+  "O curso mudou minha relação com o inglês. Agora eu consigo pensar melhor antes de falar."
 ];
 
 const bonuses = [
   {
     title: "Fundamentals",
-    image: "Bonus Fundamentals",
+    image: "Bônus Fundamentals",
     text: [
-      "O Fundamentals e o curso completo pra quem quer compreender de verdade as estruturas que mais aparecem no ingles.",
-      "Voce vai entender a construcao correta de frases, tempos verbais e elementos essenciais da lingua. E ideal para quem quer base solida antes de acelerar a conversacao.",
-      "E um produto perfeito para todos os niveis, mas com foco especial nos alunos que querem tirar duvidas antigas e nao querem mais se sentir perdidos com as bases."
+      "O Fundamentals é o curso completo pra quem quer compreender de verdade as estruturas que mais aparecem no inglês.",
+      "Você vai entender a construção correta de frases, tempos verbais e elementos essenciais da língua. É ideal para quem quer base sólida antes de acelerar a conversação.",
+      "É um produto perfeito para todos os níveis, mas com foco especial nos alunos que querem tirar dúvidas antigas e não querem mais se sentir perdidos com as bases."
     ]
   },
   {
     title: "Get Better",
-    image: "Bonus Get Better",
+    image: "Bônus Get Better",
     text: [
-      "A partir deles o aluno e dirigido ao estudo. O Get Better e uma area interativa, organizada em temas poderosos.",
-      "Trilhas separadas para gramatica aplicada, listening, vocabulary e desenvolvimento. Voce entende para que serve cada conceito e aprende a usar.",
-      "Aqui voce vai entender a conjugacao, o tempo, aprender vocabulos e aplicar tudo em atividades praticas de comunicacao.",
-      "E composto dentro de aulas sobre: Verbos, Gramatica aplicada, Listening, Perguntas, uso inteligente das palavras."
+      "A partir deles, o aluno é dirigido ao estudo. O Get Better é uma área interativa, organizada em temas poderosos.",
+      "Trilhas separadas para gramática aplicada, listening, vocabulary e desenvolvimento. Você entende para que serve cada conceito e aprende a usar.",
+      "Aqui você vai entender a conjugação, o tempo, aprender vocábulos e aplicar tudo em atividades práticas de comunicação.",
+      "É composto dentro de aulas sobre: Verbos, Gramática aplicada, Listening, Perguntas, uso inteligente das palavras."
     ]
   },
   {
     title: "Pronunciation Mastery",
-    image: "Bonus Pronunciation Mastery",
+    image: "Bônus Pronunciation Mastery",
     text: [
-      "Esse curso foi pensado especialmente para voce que ja sabe o que quer dizer, mas ainda tem vergonha ou inseguranca para pronunciar.",
-      "O Pronunciation Mastery foi feito para ensinar sons, ritmo e entonacao natural do falante gringo.",
-      "Voce vai aprender a se expressar melhor, ouvir melhor e entender como os sons mudam quando eles aparecem em frases reais.",
-      "O objetivo nao e zerar sotaque. E fazer sua pronuncia ficar clara, confiante e natural."
+      "Esse curso foi pensado especialmente para você que já sabe o que quer dizer, mas ainda tem vergonha ou insegurança para pronunciar.",
+      "O Pronunciation Mastery foi feito para ensinar sons, ritmo e entonação natural do falante gringo.",
+      "Você vai aprender a se expressar melhor, ouvir melhor e entender como os sons mudam quando eles aparecem em frases reais.",
+      "O objetivo não é zerar sotaque. É fazer sua pronúncia ficar clara, confiante e natural."
     ]
   }
 ];
 
 const extras = [
   {
-    title: "Suporte Pedagogico",
-    text: "Uma equipe especializada ficara disponivel para revisar seu progresso, tirar duvidas e orientar seus estudos dentro da plataforma."
+    title: "Suporte Pedagógico",
+    text: "Uma equipe especializada ficará disponível para revisar seu progresso, tirar dúvidas e orientar seus estudos dentro da plataforma."
   },
   {
-    title: "Biblioteca de Respostas Rapidas",
-    text: "Mais de 4.000 respostas espontaneas, frases, estruturas praticas e modelos de resposta para voce ter repertorio pronto quando precisar."
+    title: "Biblioteca de Respostas Rápidas",
+    text: "Mais de 4.000 respostas espontâneas, frases, estruturas práticas e modelos de resposta para você ter repertório pronto quando precisar."
   }
 ];
 
 function CTA({
-  children = "Quero falar ingles de vez"
+  children = "Quero falar inglês de vez"
 }: {
   children?: React.ReactNode;
 }) {
@@ -111,7 +111,7 @@ function AssetSlot({
       <div>
         <p className="text-xs font-black uppercase text-[#f8b90c]">{label}</p>
         <p className="mt-2 text-[11px] leading-5 text-white/55">
-          Espaco reservado para a imagem original.
+          Espaço reservado para a imagem original.
         </p>
       </div>
     </div>
@@ -140,20 +140,20 @@ export default function Home() {
       <section className="star-field px-5 pb-9 pt-7 sm:px-8 sm:pb-12">
         <div className="mx-auto max-w-3xl text-center">
           <p className="text-[11px] font-bold text-white/85">
-            Exclusivo para voce que "entendeu mas nao fala" ingles...
+            Exclusivo para você que "entendeu mas não fala" inglês...
           </p>
           <h1 className="mx-auto mt-3 max-w-2xl text-xl font-black leading-tight text-white sm:text-3xl">
             Teacher americano revela{" "}
             <span className="text-[#f8b90c]">
               Sistema de Aprendizado Acelerado dos Poliglotas
             </span>{" "}
-            para aprender qualquer idioma em ate 12 meses.
+            para aprender qualquer idioma em até 12 meses.
           </h1>
           <div className="mx-auto mt-7 max-w-xl rounded-md border border-white/10 bg-black/40 p-3 shadow-panel">
-            <AssetSlot label="Video da oferta" ratio="aspect-video" />
+            <AssetSlot label="Vídeo da oferta" ratio="aspect-video" />
           </div>
           <p className="mt-5 text-sm font-black text-white">
-            Ja tem um cupom liberado para voce aqui!
+            Já tem um cupom liberado para você aqui!
           </p>
           <div className="mt-3">
             <CTA />
@@ -165,28 +165,37 @@ export default function Home() {
         <div className="mx-auto grid max-w-6xl gap-9 lg:grid-cols-[1.1fr_0.9fr] lg:items-center">
           <div>
             <h2 className="text-2xl font-black leading-tight text-white sm:text-3xl">
-              O que e o{" "}
+              O que é o{" "}
               <span className="text-[#f8b90c]">Conversation Strategies?</span>
             </h2>
             <div className="mt-5 space-y-4 text-sm leading-7 text-white/72">
               <p>
-                O Conversation Strategies e um programa de imersao focado exclusivamente em destravar o ingles para quem nao fala ou nao fala do jeito que gostaria.
+                O Conversation Strategies é um programa de imersão focado
+                exclusivamente em destravar o inglês para quem não fala ou não
+                fala do jeito que gostaria.
               </p>
               <p>
-                Voce talvez entenda bem ouvindo ou lendo. Talvez ja tenha estudado por anos, feito cursos ou visto aulas por todo lugar. Mas, na hora de conversar, a frase nao sai.
+                Você talvez entenda bem ouvindo ou lendo. Talvez já tenha
+                estudado por anos, feito cursos ou visto aulas por todo lugar.
+                Mas, na hora de conversar, a frase não sai.
               </p>
               <p>
-                Foi para acabar com esse bloqueio que o curso foi criado: uma sequencia pratica que transforma o conhecimento solto em fala, repertorio e comunicacao real.
+                Foi para acabar com esse bloqueio que o curso foi criado: uma
+                sequência prática que transforma o conhecimento solto em fala,
+                repertório e comunicação real.
               </p>
               <p>
-                E diferente dos metodos tradicionais. Aqui voce aprende por estrategia, contexto e repeticao inteligente, ate conseguir usar o ingles com naturalidade.
+                É diferente dos métodos tradicionais. Aqui você aprende por
+                estratégia, contexto e repetição inteligente, até conseguir usar
+                o inglês com naturalidade.
               </p>
               <p className="font-bold text-white">
-                O Conversation Strategies e a metodologia, aula por aula, que conduz voce para conversar em ingles.
+                O Conversation Strategies é a metodologia, aula por aula, que
+                conduz você para conversar em inglês.
               </p>
             </div>
             <div className="mt-7">
-              <CTA>Quero aprender a falar ingles agora</CTA>
+              <CTA>Quero aprender a falar inglês agora</CTA>
             </div>
           </div>
           <div className="mx-auto w-full max-w-md">
@@ -198,8 +207,8 @@ export default function Home() {
       <section className="section-band star-field px-5 py-14 sm:px-8">
         <div className="mx-auto max-w-5xl">
           <SectionTitle>
-            Conheca as 3 Fases do Conversation Strategies que vao te tornar{" "}
-            <span className="text-[#f8b90c]">fluente no ingles em 12 meses</span>
+            Conheça as 3 Fases do Conversation Strategies que vão te tornar{" "}
+            <span className="text-[#f8b90c]">fluente no inglês em 12 meses</span>
           </SectionTitle>
           <div className="mx-auto mt-9 grid max-w-3xl gap-5">
             {phases.map((phase) => (
@@ -227,12 +236,13 @@ export default function Home() {
       <section className="bg-[#eeeeee] px-5 py-14 text-[#061425] sm:px-8">
         <div className="mx-auto max-w-4xl text-center">
           <h2 className="text-2xl font-black leading-tight">
-            Veja o que estao dizendo{" "}
-            <span className="text-[#126dcc]">outros alunos</span> do Leandro Craig
+            Veja o que estão dizendo{" "}
+            <span className="text-[#126dcc]">outros alunos</span> do Leandro
+            Craig
           </h2>
           <div className="mx-auto mt-8 grid max-w-lg grid-cols-2 gap-4">
-            <AssetSlot label="Depoimento em video 1" ratio="aspect-[9/16]" />
-            <AssetSlot label="Depoimento em video 2" ratio="aspect-[9/16]" />
+            <AssetSlot label="Depoimento em vídeo 1" ratio="aspect-[9/16]" />
+            <AssetSlot label="Depoimento em vídeo 2" ratio="aspect-[9/16]" />
           </div>
           <div className="mx-auto mt-7 grid max-w-3xl gap-3 sm:grid-cols-2">
             {testimonials.map((item) => (
@@ -250,7 +260,7 @@ export default function Home() {
       <section className="section-band bg-[#020812] px-5 py-14 sm:px-8">
         <div className="mx-auto max-w-5xl">
           <SectionTitle>
-            Bonus que vao <span className="text-[#f8b90c]">acelerar sua fluencia</span>
+            Bônus que vão <span className="text-[#f8b90c]">acelerar sua fluência</span>
           </SectionTitle>
           <div className="mt-10 grid gap-11">
             {bonuses.map((bonus, index) => (
@@ -273,7 +283,7 @@ export default function Home() {
             ))}
           </div>
           <div className="mt-9 text-center">
-            <CTA>Quero aprender a falar ingles agora</CTA>
+            <CTA>Quero aprender a falar inglês agora</CTA>
           </div>
         </div>
       </section>
@@ -301,14 +311,14 @@ export default function Home() {
 
       <section id="oferta" className="section-band star-field px-5 py-14 sm:px-8">
         <div className="mx-auto max-w-xl text-center">
-          <p className="text-lg font-black text-white">Somente nessa pagina</p>
+          <p className="text-lg font-black text-white">Somente nessa página</p>
           <div className="mt-7 rounded-md border border-[#f8b90c]/55 bg-[#020812]/88 p-6 shadow-glow">
             <AssetSlot label="Produto Conversation Strategies" ratio="aspect-[16/7]" />
             <h2 className="mt-5 text-2xl font-black text-[#f8b90c]">
               Conversation Strategies
             </h2>
             <p className="mt-1 text-xl font-black text-white">
-              com desconto temporario
+              com desconto temporário
             </p>
             <p className="mt-5 text-sm font-bold text-white/60 line-through">
               De R$ 997,00 por apenas:
@@ -317,7 +327,7 @@ export default function Home() {
               12x R$ 30,90
             </p>
             <p className="mt-2 text-xs font-bold uppercase text-white/70">
-              ou com +17% de desconto a vista
+              ou com +17% de desconto à vista
             </p>
             <div className="mt-6">
               <CTA>Quero meu acesso</CTA>
@@ -329,7 +339,7 @@ export default function Home() {
       <section className="section-band bg-[#020812] px-5 py-14 text-center sm:px-8">
         <div className="mx-auto max-w-3xl">
           <h2 className="text-2xl font-black text-[#f8b90c]">
-            O Risco e todo meu!
+            O Risco é todo meu!
           </h2>
           <div className="mx-auto mt-8 grid h-44 w-44 place-items-center rounded-full border border-dashed border-[#f8b90c]/45">
             <div className="grid h-28 w-28 place-items-center rounded-full border border-white/20 text-center">
@@ -340,7 +350,9 @@ export default function Home() {
             </div>
           </div>
           <p className="mx-auto mt-7 max-w-xl text-sm leading-7 text-white/70">
-            Voce ganha acesso total agora e tem 7 dias para testar o Conversation Strategies. Se achar que nao e para voce, basta pedir o reembolso dentro do prazo de garantia.
+            Você ganha acesso total agora e tem 7 dias para testar o
+            Conversation Strategies. Se achar que não é para você, basta pedir o
+            reembolso dentro do prazo de garantia.
           </p>
           <p className="mt-8 text-lg font-black uppercase text-white">
             Cupom liberado
@@ -354,7 +366,7 @@ export default function Home() {
       <section className="section-band star-field px-5 py-14 sm:px-8">
         <div className="mx-auto max-w-2xl text-center">
           <h2 className="text-2xl font-black text-white">
-            Ainda tem alguma duvida?
+            Ainda tem alguma dúvida?
           </h2>
           <a
             href="#"
@@ -363,7 +375,10 @@ export default function Home() {
             Fale com um especialista
           </a>
           <p className="mx-auto mt-7 max-w-xl text-sm leading-7 text-white/70">
-            Se voce esta na porta do Conversation Strategies mas ainda tem uma duvida especifica, clique no botao acima e fale com a nossa equipe. Vamos te ajudar a entender se esse e o proximo passo certo para o seu ingles.
+            Se você está na porta do Conversation Strategies mas ainda tem uma
+            dúvida específica, clique no botão acima e fale com a nossa equipe.
+            Vamos te ajudar a entender se esse é o próximo passo certo para o
+            seu inglês.
           </p>
         </div>
       </section>
