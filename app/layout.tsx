@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Conversation Strategies | Leandro Craig",
   description:
-    "Landing page do Conversation Strategies, programa de aprendizado acelerado para destravar a conversacao em ingles.",
+    "Landing page do Conversation Strategies, programa de aprendizado acelerado para destravar a conversação em inglês.",
   metadataBase: new URL("https://example.com")
 };
 
